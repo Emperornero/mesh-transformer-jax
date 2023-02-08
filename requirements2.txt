@@ -21,3 +21,4 @@ fastapi
 uvicorn
 lm_dataformat
 pathy
+aiohttp
